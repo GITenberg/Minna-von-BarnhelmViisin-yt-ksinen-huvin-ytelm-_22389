@@ -1,0 +1,38 @@
+_repo: Minna-von-BarnhelmViisin-yt-ksinen-huvin-ytelm-_22389
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lahdensuo, Jalmari
+    birthdate: 1880
+    deathdate: 1931
+    gutenberg_agent_id: '25305'
+    url: http://www.gutenberg.org/2009/agents/25305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2007-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22389'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+title: 'Minna von Barnhelm
+
+  Viisinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/22389
